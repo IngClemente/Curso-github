@@ -5,3 +5,5 @@ ahora va de abajo para arriba ( repositorio en mi compu a la nube de GitHub )
 Archivo README.md del taller de git y gh
 dia final del taller
 segundo cambio de readme desde vsc
+agregar cosas y mas
+este texto esta creado en vsc
